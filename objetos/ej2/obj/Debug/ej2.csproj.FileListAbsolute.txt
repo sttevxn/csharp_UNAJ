@@ -1,0 +1,6 @@
+C:\Users\Almnos\Documents\SharpDevelop Projects\objetos\ej2\bin\Debug\ej2.exe.config
+C:\Users\Almnos\Documents\SharpDevelop Projects\objetos\ej2\bin\Debug\ej2.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\objetos\ej2\bin\Debug\ej2.pdb
+C:\Users\Almnos\Documents\SharpDevelop Projects\objetos\ej2\obj\Debug\ej2.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Documents\SharpDevelop Projects\objetos\ej2\obj\Debug\ej2.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\objetos\ej2\obj\Debug\ej2.pdb
