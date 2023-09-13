@@ -1,0 +1,6 @@
+C:\Users\steven\Documents\SharpDevelop Projects\tp4\ej1\bin\Debug\ej1.exe.config
+C:\Users\steven\Documents\SharpDevelop Projects\tp4\ej1\bin\Debug\ej1.exe
+C:\Users\steven\Documents\SharpDevelop Projects\tp4\ej1\bin\Debug\ej1.pdb
+C:\Users\steven\Documents\SharpDevelop Projects\tp4\ej1\obj\Debug\ej1.csprojResolveAssemblyReference.cache
+C:\Users\steven\Documents\SharpDevelop Projects\tp4\ej1\obj\Debug\ej1.exe
+C:\Users\steven\Documents\SharpDevelop Projects\tp4\ej1\obj\Debug\ej1.pdb

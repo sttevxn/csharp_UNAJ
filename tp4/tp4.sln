@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej1", "ej1\ej1.csproj", "{4077E99E-3599-4A02-BE5F-914FBB12E97D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej3", "ej3\ej3.csproj", "{1010CB41-8E21-4BBE-BBAF-82CC8AFD5F83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4077E99E-3599-4A02-BE5F-914FBB12E97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4077E99E-3599-4A02-BE5F-914FBB12E97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4077E99E-3599-4A02-BE5F-914FBB12E97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4077E99E-3599-4A02-BE5F-914FBB12E97D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1010CB41-8E21-4BBE-BBAF-82CC8AFD5F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1010CB41-8E21-4BBE-BBAF-82CC8AFD5F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1010CB41-8E21-4BBE-BBAF-82CC8AFD5F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1010CB41-8E21-4BBE-BBAF-82CC8AFD5F83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
