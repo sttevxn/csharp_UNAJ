@@ -1,0 +1,6 @@
+C:\Users\Almnos\Documents\SharpDevelop Projects\clase6_herencia\h1\bin\Debug\h1.exe.config
+C:\Users\Almnos\Documents\SharpDevelop Projects\clase6_herencia\h1\bin\Debug\h1.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\clase6_herencia\h1\bin\Debug\h1.pdb
+C:\Users\Almnos\Documents\SharpDevelop Projects\clase6_herencia\h1\obj\Debug\h1.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Documents\SharpDevelop Projects\clase6_herencia\h1\obj\Debug\h1.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\clase6_herencia\h1\obj\Debug\h1.pdb
