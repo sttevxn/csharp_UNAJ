@@ -1,0 +1,6 @@
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ2_EmpresaAerea\bin\Debug\EJ2_EmpresaAerea.exe.config
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ2_EmpresaAerea\bin\Debug\EJ2_EmpresaAerea.exe
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ2_EmpresaAerea\bin\Debug\EJ2_EmpresaAerea.pdb
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ2_EmpresaAerea\obj\Debug\EJ2_EmpresaAerea.csprojResolveAssemblyReference.cache
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ2_EmpresaAerea\obj\Debug\EJ2_EmpresaAerea.exe
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ2_EmpresaAerea\obj\Debug\EJ2_EmpresaAerea.pdb

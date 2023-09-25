@@ -1,0 +1,6 @@
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ3_Supermercado\bin\Debug\EJ3_Supermercado.exe.config
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ3_Supermercado\bin\Debug\EJ3_Supermercado.exe
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ3_Supermercado\bin\Debug\EJ3_Supermercado.pdb
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ3_Supermercado\obj\Debug\EJ3_Supermercado.csprojResolveAssemblyReference.cache
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ3_Supermercado\obj\Debug\EJ3_Supermercado.exe
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\EJ3_Supermercado\obj\Debug\EJ3_Supermercado.pdb

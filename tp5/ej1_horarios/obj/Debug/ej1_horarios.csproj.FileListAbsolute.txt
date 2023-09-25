@@ -1,0 +1,12 @@
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\bin\Debug\ej1_horarios.exe.config
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\bin\Debug\ej1_horarios.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\bin\Debug\ej1_horarios.pdb
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\obj\Debug\ej1_horarios.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\obj\Debug\ej1_horarios.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\obj\Debug\ej1_horarios.pdb
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\bin\Debug\ej1_horarios.exe.config
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\bin\Debug\ej1_horarios.exe
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\bin\Debug\ej1_horarios.pdb
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\obj\Debug\ej1_horarios.csprojResolveAssemblyReference.cache
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\obj\Debug\ej1_horarios.exe
+C:\Users\steven\Documents\SharpDevelop Projects\tp5_enUnaj\ej1_horarios\obj\Debug\ej1_horarios.pdb
