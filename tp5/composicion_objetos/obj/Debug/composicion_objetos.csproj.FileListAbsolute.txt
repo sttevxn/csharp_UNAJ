@@ -1,6 +1,0 @@
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\composicion_objetos\bin\Debug\composicion_objetos.exe.config
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\composicion_objetos\bin\Debug\composicion_objetos.exe
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\composicion_objetos\bin\Debug\composicion_objetos.pdb
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\composicion_objetos\obj\Debug\composicion_objetos.csprojResolveAssemblyReference.cache
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\composicion_objetos\obj\Debug\composicion_objetos.exe
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\composicion_objetos\obj\Debug\composicion_objetos.pdb

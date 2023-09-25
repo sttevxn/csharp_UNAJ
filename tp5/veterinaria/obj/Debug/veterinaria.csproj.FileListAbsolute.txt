@@ -1,6 +1,0 @@
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\veterinaria\bin\Debug\veterinaria.exe.config
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\veterinaria\bin\Debug\veterinaria.exe
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\veterinaria\bin\Debug\veterinaria.pdb
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\veterinaria\obj\Debug\veterinaria.csprojResolveAssemblyReference.cache
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\veterinaria\obj\Debug\veterinaria.exe
-C:\Users\steven\Documents\SharpDevelop Projects\tp5\veterinaria\obj\Debug\veterinaria.pdb
