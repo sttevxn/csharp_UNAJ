@@ -1,0 +1,6 @@
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\propagacionExcepciones\bin\Debug\propagacionExcepciones.exe.config
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\propagacionExcepciones\bin\Debug\propagacionExcepciones.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\propagacionExcepciones\bin\Debug\propagacionExcepciones.pdb
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\propagacionExcepciones\obj\Debug\propagacionExcepciones.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\propagacionExcepciones\obj\Debug\propagacionExcepciones.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\propagacionExcepciones\obj\Debug\propagacionExcepciones.pdb

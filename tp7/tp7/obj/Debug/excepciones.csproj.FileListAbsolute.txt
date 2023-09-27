@@ -1,0 +1,6 @@
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\tp7\bin\Debug\excepciones.exe.config
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\tp7\bin\Debug\excepciones.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\tp7\bin\Debug\excepciones.pdb
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\tp7\obj\Debug\excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\tp7\obj\Debug\excepciones.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\tp7\obj\Debug\excepciones.pdb

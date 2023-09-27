@@ -1,0 +1,6 @@
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\excepcionesPersonalizadas\obj\Debug\excepcionesPersonalizadas.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\excepcionesPersonalizadas\bin\Debug\excepcionesPersonalizadas.exe.config
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\excepcionesPersonalizadas\bin\Debug\excepcionesPersonalizadas.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\excepcionesPersonalizadas\bin\Debug\excepcionesPersonalizadas.pdb
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\excepcionesPersonalizadas\obj\Debug\excepcionesPersonalizadas.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp7\excepcionesPersonalizadas\obj\Debug\excepcionesPersonalizadas.pdb

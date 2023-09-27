@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excepciones", "tp7\excepciones.csproj", "{C656F760-6BCE-49D7-AABE-3CC2A8EC591F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "propagacionExcepciones", "propagacionExcepciones\propagacionExcepciones.csproj", "{5CDE160B-0950-4A9C-A6E0-AF864C7D2DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excepcionesPersonalizadas", "excepcionesPersonalizadas\excepcionesPersonalizadas.csproj", "{B6038E46-AA81-47C4-BB49-339459031A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C656F760-6BCE-49D7-AABE-3CC2A8EC591F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C656F760-6BCE-49D7-AABE-3CC2A8EC591F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C656F760-6BCE-49D7-AABE-3CC2A8EC591F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C656F760-6BCE-49D7-AABE-3CC2A8EC591F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDE160B-0950-4A9C-A6E0-AF864C7D2DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDE160B-0950-4A9C-A6E0-AF864C7D2DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDE160B-0950-4A9C-A6E0-AF864C7D2DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDE160B-0950-4A9C-A6E0-AF864C7D2DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6038E46-AA81-47C4-BB49-339459031A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6038E46-AA81-47C4-BB49-339459031A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6038E46-AA81-47C4-BB49-339459031A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6038E46-AA81-47C4-BB49-339459031A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
