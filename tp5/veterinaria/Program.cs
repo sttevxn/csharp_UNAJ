@@ -50,7 +50,9 @@ namespace veterinaria
 				
 			}
 			
-			veterinaria1.VerDatos(1);
+			foreach(Mascota mascota in listaMascotas)
+			{
+				Console.WriteLine(mascota./*atributo*/)
 			
 			
 			Console.Write("Press any key to continue . . . ");
