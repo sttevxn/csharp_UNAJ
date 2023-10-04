@@ -1,0 +1,6 @@
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp8_recursion\x1\bin\Debug\x1.exe.config
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp8_recursion\x1\bin\Debug\x1.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp8_recursion\x1\bin\Debug\x1.pdb
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp8_recursion\x1\obj\Debug\x1.csprojResolveAssemblyReference.cache
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp8_recursion\x1\obj\Debug\x1.exe
+C:\Users\Almnos\Documents\SharpDevelop Projects\tp8_recursion\x1\obj\Debug\x1.pdb
