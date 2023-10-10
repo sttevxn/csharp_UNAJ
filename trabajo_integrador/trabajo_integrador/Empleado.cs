@@ -34,6 +34,14 @@ namespace trabajo_integrador
 			this.sueldo = sueldo;
 		}
 		
+		public Empleado(string nombre, string dni, string legajo, int sueldo)
+		{
+			this.nombre = nombre;
+			this.dni = dni;
+			this.legajo = legajo;
+			this.sueldo = sueldo;
+		}
+		
 		// Propiedades
 		
 		public string Nombre
@@ -60,6 +68,13 @@ namespace trabajo_integrador
 		{
 			set {sueldo = value;}
 			get {return sueldo;}
+		}
+		
+		// Metodos.
+		
+		public void AgregarEmpleado(Empleado empleado)
+		{
+			
 		}
 		
 		

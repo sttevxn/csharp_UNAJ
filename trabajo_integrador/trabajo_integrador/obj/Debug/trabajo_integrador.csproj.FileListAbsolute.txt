@@ -1,1 +1,6 @@
 C:\Users\steven\Documents\SharpDevelop Projects\trabajo_integrador\trabajo_integrador\obj\Debug\trabajo_integrador.csprojResolveAssemblyReference.cache
+C:\Users\steven\Documents\SharpDevelop Projects\trabajo_integrador\trabajo_integrador\bin\Debug\trabajo_integrador.exe.config
+C:\Users\steven\Documents\SharpDevelop Projects\trabajo_integrador\trabajo_integrador\bin\Debug\trabajo_integrador.exe
+C:\Users\steven\Documents\SharpDevelop Projects\trabajo_integrador\trabajo_integrador\bin\Debug\trabajo_integrador.pdb
+C:\Users\steven\Documents\SharpDevelop Projects\trabajo_integrador\trabajo_integrador\obj\Debug\trabajo_integrador.exe
+C:\Users\steven\Documents\SharpDevelop Projects\trabajo_integrador\trabajo_integrador\obj\Debug\trabajo_integrador.pdb
