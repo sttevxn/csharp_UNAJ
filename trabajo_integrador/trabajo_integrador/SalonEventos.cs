@@ -20,7 +20,7 @@ namespace trabajo_integrador
 		private ArrayList listaEventosContratados;
 		private ArrayList listaEmpleados;
 		private ArrayList listaEncargados;
-		private Servicios[] listaServicios;
+		private ArrayList listaServicios;
 		
 		private int cantidadServiciosDisponibles ;
 		
@@ -32,7 +32,7 @@ namespace trabajo_integrador
 			listaEventosContratados = new ArrayList();
 			listaEmpleados = new ArrayList();
 			listaEncargados = new ArrayList();
-			listaServicios = new Servicios[10];
+			listaServicios = new ArrayList();
 			
 			cantidadServiciosDisponibles = 0;
 		}
@@ -50,6 +50,10 @@ namespace trabajo_integrador
 			set {cantidadServiciosDisponibles = value;}
 			get {return cantidadServiciosDisponibles;}
 		}
+		public ArrayList ListaEmpleados
+		{
+			get {return ListaEmpleados;}
+		}
 		
 		// Metodos.
 		
@@ -57,9 +61,7 @@ namespace trabajo_integrador
 		
 		public void AgregarServicio(Servicios servicio)
 		{
-			int posicion = cantidadServiciosDisponibles;
-			listaServicios[posicion] = servicio;
-			CantidadServiciosDisponibles = CantidadServiciosDisponibles+1;
+			listaServicios.Add(servicio);
 			Console.WriteLine("Servicio cargado correctamente");
 		}
 		
@@ -67,23 +69,24 @@ namespace trabajo_integrador
 		{
 			foreach(Servicios serviciosCargados in listaServicios)
 			{
+				bool estado = false;
 				if(serviciosCargados.Codigo == codigo)
 				{
-					int posicion = Array.IndexOf(listaServicios, serviciosCargados);
-					for (int x = posicion; x<cantidadServiciosDisponibles; x++)
+					estado = true;
+					if (estado==true)
 					{
-						listaServicios[x] = listaServicios[x+1];
-					}
-					listaServicios[cantidadServiciosDisponibles] = null;
-					CantidadServiciosDisponibles = CantidadServiciosDisponibles-1;
+					listaServicios.Remove(serviciosCargados);
 					Console.WriteLine("Servicio eliminado correctamente");
 					break;
+					}
+					
 				}
 				else
-				{
-					Console.WriteLine("No se ha encontrado el servicio");
-					break;
-				}
+					{
+						Console.WriteLine("No se ha encontrado el servicio");
+						break;
+					}
+				
 			}
 		}
 		
@@ -99,15 +102,21 @@ namespace trabajo_integrador
 		{
 			foreach(Empleado empleadosCargados in listaEmpleados)
 			{
+				bool estado = false;
 				if (empleadosCargados.Legajo == legajo)
 				{
+					estado = true;
+					if(estado == true)
+					{
 					listaEmpleados.Remove(empleadosCargados);
 					Console.WriteLine("Empleado eliminado correctamente");
 					break;
+					}
 				}
 				else
 				{
 					Console.WriteLine("No se ha encontrado al empleado.");
+					break;
 				}
 			}
 
@@ -123,16 +132,23 @@ namespace trabajo_integrador
 		
 		public void EliminarEncargado(string legajo)
 		{
+			bool estado = false;
 			foreach(Encargado encargadosGuardados in listaEncargados)
 			{
 				if(encargadosGuardados.Legajo == legajo)
 				{
+					estado = true;
+					if(estado == true)
+					{
 					listaEncargados.Remove(encargadosGuardados);
 					Console.WriteLine("Encargado borrado correctamente.");
+					break;
+					}
 				}
 				else
 				{
 					Console.WriteLine("No se ha encontrado al encargado.");
+					break;
 				}
 			}
 		}

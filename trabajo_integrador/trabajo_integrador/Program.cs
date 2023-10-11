@@ -87,14 +87,15 @@ namespace trabajo_integrador
 								
 								
 								Console.WriteLine("El nuevo empleado es un ENCARGADO? s/n:");
-								decision = char.Parse(Console.ReadLine());
-								if(decision == 's')
+								char dec = char.Parse(Console.ReadLine());
+								if(dec == 's')
 								{
 									Console.WriteLine("Ingrese el plus de sueldo: ");
 									int plusSueldo = int.Parse(Console.ReadLine());
 									Encargado nuevoEncargado = new Encargado(nombre,dni,legajo,sueldo,plusSueldo);
 									nuevoEncargado.AgregarPlus(nuevoEncargado);
 									ss.AgregarEncargado(nuevoEncargado);
+									
 								}
 								else
 								{
@@ -103,15 +104,68 @@ namespace trabajo_integrador
 									Empleado nuevoEmpleado = new Empleado(nombre,dni,puesto,legajo,sueldo);
 									ss.AgregarEmpleado(nuevoEmpleado);
 								}
-								
+								Console.WriteLine("¿Desea cargar un nuevo empleado? s/n");
+								decision = char.Parse(Console.ReadLine());	
 							}
+							MenuAdministracion();
+							opcion = int.Parse(Console.ReadLine());
+							
+						}
+						else if (opcion == 4)
+						{
+							Console.WriteLine("¿Desea dar de baja un empleado? s/n");
+							decision = char.Parse(Console.ReadLine());
+							while (decision == 's')
+							{
+								Console.WriteLine("Ingrese el legajo del empleado a dar de baja:");
+								string legajo = Console.ReadLine();
+								ss.EliminarEmpleado(legajo);
+								Console.WriteLine("¿Desea dar de baja a otro empleado? s/n");
+								decision = char.Parse(Console.ReadLine());
+							}
+							MenuAdministracion();
+							opcion = int.Parse(Console.ReadLine());
+								
+						}
+						else if (opcion == 5)
+						{
+							Console.WriteLine("¿Desea dar de baja a un encargado? s/n");
+							decision = char.Parse(Console.ReadLine());
+							while(decision == 's')
+							{
+								Console.WriteLine("Ingrese el legajo del encargado a dar de baja:");
+								string legajo = (Console.ReadLine());
+								ss.EliminarEncargado(legajo);
+								Console.WriteLine("'¿Desea dar de baja a otro encargado? s/n");
+								decision = char.Parse(Console.ReadLine());
+							}
+							MenuAdministracion();
+							opcion = int.Parse(Console.ReadLine());
 						}
 					}
 					break;
 					
+				case 2:
+					{
+						Console.WriteLine("Ingrese los datos necesarios para contratar un evento");
+						Console.WriteLine("Nombre del cliente");
+						string nombreCliente = Console.ReadLine();
+						Console.WriteLine("DNI del cliente");
+						string dniCliente = Console.ReadLine();
+						Console.WriteLine("Fecha del evento: DD/MM/AA");
+						string fecha = Console.ReadLine();
+						Console.WriteLine("Tipo de evento");
+						string tipo = Console.ReadLine();
+						Console.WriteLine("Precio del evento");
+						int precioEvento = int.Parse(Console.ReadLine());
+						
+						
+					}
 			}
+		
 			
 			
+			foreach(Empleado e in ss.ListaEmpleados )
 			
 			
 			
@@ -146,6 +200,7 @@ namespace trabajo_integrador
 			Console.WriteLine("2- Eliminar servicio.");
 			Console.WriteLine("3- Dar de alta empleado");
 			Console.WriteLine("4- Dar de baja empleado");
+			Console.WriteLine("5- Dar de baja encargado");
 			Console.WriteLine("0- Volver");
 		}
 		

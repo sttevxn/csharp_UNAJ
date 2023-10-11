@@ -22,21 +22,23 @@ namespace trabajo_integrador
 		
 		private string nombreCliente;
 		private string dniCliente;
-		private string fecha;
+		private string fecha; //CONSULTAR
 		private string hora;
 		private string tipo;
+		private int precioEvento;
 		private Encargado encargado;
 		private ArrayList serviciosContratados;
 		
 		// Constructor
 		
-		public Eventos(string nombreCliente, string dniCliente, string fecha, string hora, string tipo, Encargado encargado )
+		public Eventos(string nombreCliente, string dniCliente, string fecha, string hora, string tipo,int precioEvento,  Encargado encargado )
 		{
 			this.nombreCliente = nombreCliente;
 			this.dniCliente = dniCliente;
 			this.fecha = fecha;
 			this.hora = hora;
 			this.tipo = tipo;
+			this.precioEvento = precioEvento;
 			this.encargado = encargado;
 			serviciosContratados = new ArrayList();
 		}
@@ -67,6 +69,12 @@ namespace trabajo_integrador
 		{
 			set {tipo = value;}
 			get {return tipo;}
+		}
+		public int PrecioEvento
+		{
+			set {precioEvento = value;}
+			get {return precioEvento;}
+			
 		}
 		public Encargado Encargado
 		{

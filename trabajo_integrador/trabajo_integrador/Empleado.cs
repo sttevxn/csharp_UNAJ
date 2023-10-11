@@ -70,12 +70,9 @@ namespace trabajo_integrador
 			get {return sueldo;}
 		}
 		
-		// Metodos.
 		
-		public void AgregarEmpleado(Empleado empleado)
-		{
-			
-		}
+		
+		
 		
 		
 	}
